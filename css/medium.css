@@ -1,0 +1,13 @@
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid #222;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.aside-buttons{
+    margin-bottom: 10px;
+}
